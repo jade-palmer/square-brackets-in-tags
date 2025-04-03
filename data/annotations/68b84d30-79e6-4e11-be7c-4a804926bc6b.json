@@ -1,5 +1,48 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads One minute of this video has been removed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "[SpokenWeb \"edits\"]"
+        }
+      ],
+      "uuid": "2c4f80c8-b97d-40c6-a404-749014ccd802"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, medium long shot, then zoom into medium closeup of the stage at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic---with both pedestrians and vehicles regularly passing by. On the windows, the words enough said."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "[Bistro 4 stage] (he/him)"
+        }
+      ],
+      "uuid": "1fa20a7d-f595-4290-adc6-80df2a720401"
+    }
+  ],
   "event_id": "64dce64a-691e-4210-b3a6-d5d5c8dfdcaa",
   "set": "second test",
   "source_id": "7dfd47aa-c6e1-4e59-aaaf-066385b2eca5"
