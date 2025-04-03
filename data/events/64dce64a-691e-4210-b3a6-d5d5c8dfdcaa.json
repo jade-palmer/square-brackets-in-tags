@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "7dfd47aa-c6e1-4e59-aaaf-066385b2eca5": {
+      "label": "xxx",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=V9NlA628lRw",
+      "duration": 1218,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "square brackets in tags",
+  "created_at": "2025-04-03T20:53:53.802Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-04-03T20:53:53.802Z",
+  "updated_by": "jade-palmer"
+}
