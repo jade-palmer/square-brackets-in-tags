@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "jade-palmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192922080?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "jade-palmer",
     "is_private": false,
@@ -44,6 +50,7 @@
       ]
     },
     "created_at": "2025-04-03T20:51:44.543Z",
-    "updated_at": "2025-04-03T21:00:36.724Z"
+    "updated_at": "2025-04-03T21:00:36.724Z",
+    "generate_pages_site": true
   }
 }
